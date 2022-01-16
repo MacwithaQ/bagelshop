@@ -4,20 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>The Bagel Shop</h1>
+      <h3>Our specialty is freshly bakes bagels that tickle your taste buds!</h3>
+      <img src="https://media-cdn.tripadvisor.com/media/photo-s/12/6e/a8/32/doggy-friendly-bagel.jpg" alt="Bagel Shop"></img>
+      
     </div>
   );
 }
