@@ -4,7 +4,7 @@
   align-items: center;
   text-align: center;
   background-color: #ffc07f;
-  height: 100vh;
+  height: 200vh;
   margin: 0;
 }
 
@@ -12,9 +12,6 @@ h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h3{
-
-}
 
 .atTheTop{
   display:flex;
@@ -28,5 +25,10 @@ h3{
 
 img{
   padding: 20px;
+
+}
+
+.product-images{
+  width: 300px;
 
 }
